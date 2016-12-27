@@ -1,0 +1,29 @@
+Physical Properties for Left hand
+General Properties:
+	Material:	{}
+	Density:	3.432 g/cm^3
+	*Mass:	0.073 kg (Relative Error = 0.006713%)
+	Area:	33483.197 mm^2 (Relative Error = 0.000981%)
+	Volume:	21399.352 mm^3 (Relative Error = 0.006713%)
+**Center of Gravity:
+	X:	3.204 mm (Relative Error = 0.006713%)
+	Y:	7.017 mm (Relative Error = 0.006713%)
+	Z:	-12.562 mm (Relative Error = 0.006713%)
+**Mass Moments of Inertia with respect to Center of Gravity(Calculated using negative integral)
+	Ixx        	49.126 kg mm^2 (Relative Error = 0.006713%)
+	Iyx Iyy    	-1.662 kg mm^2 (Relative Error = 0.006713%)	20.371 kg mm^2 (Relative Error = 0.006713%)
+	Izx Izy Izz	0.016 kg mm^2 (Relative Error = 0.006713%)	0.076 kg mm^2 (Relative Error = 0.006713%)	58.115 kg mm^2 (Relative Error = 0.006713%)
+**Mass Moments of Inertia with respect to Global(Calculated using negative integral)
+	Ixx        	64.331 kg mm^2 (Relative Error = 0.006713%)
+	Iyx Iyy    	-3.313 kg mm^2 (Relative Error = 0.006713%)	32.714 kg mm^2 (Relative Error = 0.006713%)
+	Izx Izy Izz	2.971 kg mm^2 (Relative Error = 0.006713%)	6.550 kg mm^2 (Relative Error = 0.006713%)	62.485 kg mm^2 (Relative Error = 0.006713%)
+**Principal Moments of Inertia with respect to Center of Gravity
+	I1:	49.222 kg mm^2 (Relative Error = 0.006713%)
+	I2:	20.275 kg mm^2 (Relative Error = 0.006713%)
+	I3:	58.115 kg mm^2 (Relative Error = 0.006713%)
+**Rotation from Global to Principal
+	Rx:	0.11 deg (Relative Error = 0.006713%)
+	Ry:	-0.08 deg (Relative Error = 0.006713%)
+	Rz:	3.30 deg (Relative Error = 0.006713%)
+*Calculations are based on user overwritten values
+**Values do not reflect user-overridden mass or volume
